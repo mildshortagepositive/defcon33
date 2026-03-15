@@ -1,0 +1,26 @@
+{
+  "name": "_test",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mildshortagepositive/_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mildshortagepositive/_test/issues"
+  },
+  "homepage": "https://github.com/mildshortagepositive/_test#readme",
+  "dependencies": {
+    "jpeg-js": "^0.4.4",
+    "playwright": "^1.58.2",
+    "pngjs": "^7.0.0"
+  }
+}
